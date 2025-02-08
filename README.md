@@ -12,13 +12,13 @@ This repository contains implementations of algorithms and data structures as pa
   ```bash
   python Data_Structure_Implementations.py
 
-### 2. **`Deterministic_Algorith.py`**
+### 2. **`Deterministic_Algorithm.py`**
 - **Description:** Implements Daterministic alogorithm for selection in worst case time(Median of Medians)..
 - **How to Run:**
   ```bash
   python Deterministic_Algorith.py
 
-### 3. **`Randomizied_Alogorithm.py`**
+### 3. **`Randomizied_Algorithm.py`**
 - **Description:** Implements Randomized Algorithm for selection in expected time(Ramdomizied Quicksort) ..
 - **How to Run:**
   ```bash
